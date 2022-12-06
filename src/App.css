@@ -1,18 +1,20 @@
 
- .text-field  .css-igs3ac{
+ .text-field fieldset{
   border-color: #1d72e7 ;
   border-width: 2px;
 }
 
 
 
-.css-1v4ccyo:hover 
+
+.MuiInputBase-colorPrimary:hover
 .MuiOutlinedInput-notchedOutline{
   border-color: #1d72e7 !important;
 }
 
-.css-1v4ccyo.Mui-focused
-.MuiOutlinedInput-notchedOutline {
+
+.MuiInputBase-colorPrimary.Mui-focused
+.MuiOutlinedInput-notchedOutline{
   border-color: #1d72e7 !important;
   
 }
