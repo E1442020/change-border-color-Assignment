@@ -1,17 +1,17 @@
 
- .text-field  .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+ .text-field  .css-igs3ac{
   border-color: #1d72e7 ;
   border-width: 2px;
 }
 
 
 
-.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root:hover 
-.MuiOutlinedInput-notchedOutline {
+.css-1v4ccyo:hover 
+.MuiOutlinedInput-notchedOutline{
   border-color: #1d72e7 !important;
 }
 
-.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused
+.css-1v4ccyo.Mui-focused
 .MuiOutlinedInput-notchedOutline {
   border-color: #1d72e7 !important;
   
